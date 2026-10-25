@@ -1,2 +1,15 @@
-# unitpeek
-Unit and currency converter for Mac.
+# unitpeek（仮名）
+
+**単位・通貨換算**
+
+## 課題（Mac標準の不便）
+Spotlight頼みで対応単位も履歴も弱い。
+
+## 計画している機能
+- 長さ・重さ・温度などの単位換算
+- 通貨換算（レート取得）
+- 履歴とお気に入り
+
+## ステータス
+仮名・構想段階。2026-10-26に「Mac標準の足りないところ」候補としてリポジトリを作成。
+出典リスト: ~/workspace/apps/macos-builtin-pain-points.md
